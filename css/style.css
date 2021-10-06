@@ -1574,3 +1574,12 @@ h1, h2, h3, h4, h5,
 
 .slide-one-item .owl-dots {
   bottom: -20px; }
+@media (max-width:480px){
+  .media-92812 .text {
+    width: 80%;
+    margin-top: -20px;
+    position: relative;
+    padding: 5px;
+    display: block;
+    background: #fff; }
+}
