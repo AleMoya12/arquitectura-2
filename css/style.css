@@ -1601,7 +1601,11 @@ h1, h2, h3, h4, h5,
     #titulo{
       font-size: 1.2em !important; 
       color: #364d59 !important; 
-      margin-bottom: 110px !important;
+      padding-top: 100px !important;
+      
+    }
+    #btnConsultar{
+      margin-top: 220px !important;
     }
   }
 @media (max-width:480px){
