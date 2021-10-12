@@ -1605,4 +1605,10 @@ h1, h2, h3, h4, h5,
     padding: 5px;
     display: block;
     background: #fff; }
+
+    #titulo{
+      font-size: 1.9em; 
+      color: #364d59 !important; 
+      margin-bottom: 100px;
+    }
 }
