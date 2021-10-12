@@ -1599,7 +1599,7 @@ h1, h2, h3, h4, h5,
   bottom: -20px; }
   @media (max-width:780px){
     #titulo{
-      font-size: 1em !important; 
+      font-size: 1.4em !important; 
       color: #364d59 !important; 
       margin-bottom: 110px !important;
     }
