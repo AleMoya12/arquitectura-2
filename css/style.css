@@ -1597,6 +1597,13 @@ h1, h2, h3, h4, h5,
 
 .slide-one-item .owl-dots {
   bottom: -20px; }
+  @media (max-width:780px){
+    #titulo{
+      font-size: 1.9em; 
+      color: #364d59 !important; 
+      margin-bottom: 100px;
+    }
+  }
 @media (max-width:480px){
   .media-92812 .text {
     width: 80%;
@@ -1606,9 +1613,5 @@ h1, h2, h3, h4, h5,
     display: block;
     background: #fff; }
 
-    #titulo{
-      font-size: 1.9em; 
-      color: #364d59 !important; 
-      margin-bottom: 100px;
-    }
+   
 }
